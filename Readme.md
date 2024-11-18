@@ -29,7 +29,7 @@ To get started with deploying the todo-app on Azure using Terraform, follow thes
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/devopsinsiders/azure-todo-app-terraform.git
+   git clone https://github.com/Prashant8695/azure-todo-app-terraform.git
    ```
 
 2. **Navigate to the Directory**:
